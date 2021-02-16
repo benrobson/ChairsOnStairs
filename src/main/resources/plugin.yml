@@ -1,0 +1,6 @@
+main: me.benrobson.ChairsOnStairs.ChairsOnStairsMain
+name: ChairsOnStairs
+description: A simple plugin that allows you to sit on stairs.
+version: ${project.version}
+author: Ben Robson
+api-version: 1.16
