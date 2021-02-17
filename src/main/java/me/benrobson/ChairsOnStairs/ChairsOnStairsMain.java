@@ -1,17 +1,9 @@
 package me.benrobson.ChairsOnStairs;
 
 import org.bukkit.ChatColor;
-import org.bukkit.Material;
-import org.bukkit.block.Block;
-import org.bukkit.entity.Player;
-import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.block.Action;
-import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
-
-import java.util.Iterator;
 
 public class ChairsOnStairsMain extends JavaPlugin implements Listener {
     public static ChairsOnStairsMain plugin;
